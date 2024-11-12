@@ -1,0 +1,45 @@
+html body{
+font-style: arial,sans-serif;
+justify-content: flex;
+background-color: white;
+border-radius: 8px;
+
+}
+
+nav ul{
+list-style: none;
+padding: center;
+display: flex;
+justify-content: center;
+gap: 10%;
+color: black;
+}
+nav ul li{
+display: flex;
+justify-content: center;
+margin: 0px;
+}
+
+h1{
+text-align: center;
+background-color: brown;
+
+}
+
+p{
+color: brown;
+width: 50%;
+height: 50%;
+}
+
+.h3{
+justify-content: center;
+flex-direction: center;
+
+}
+
+button-container{
+display: flex;
+align-items: center;
+
+}
